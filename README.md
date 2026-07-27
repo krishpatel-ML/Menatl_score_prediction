@@ -1,1 +1,1 @@
-# Menatl_score_prediction
+# Menatal_score_prediction
