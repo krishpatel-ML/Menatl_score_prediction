@@ -4,4 +4,4 @@ pydantic
 joblib
 pandas
 scikit-learn==1.6.1
-python-3.11.9
+
